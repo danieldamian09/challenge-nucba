@@ -13,7 +13,7 @@ body {
 
 .principal {
   width: 100%;
-  min-height: 100vh;
+  min-height: 100%;
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -24,6 +24,7 @@ body {
 .card-1 {
   width: 432px;
   height: 389px;
+  margin-top: 30px;
   background: #fff;
   border-radius: 20px;
   position: relative;
@@ -43,7 +44,7 @@ body {
   margin: 63px auto 19px;
 }
 
-.img-1 {
+.img-1, .img2 {
   width: 100%;
   height: auto;
 }
@@ -52,9 +53,6 @@ body {
   width: 327px;
   height: 72px;
   margin: 0px auto 16px;
-  font-family: Roboto;
-  font-style: normal;
-  font-weight: normal;
   font-size: 18px;
   line-height: 24px;
   text-align: center;
@@ -73,3 +71,52 @@ body {
   line-height: 21px;
   box-shadow: 0px 6px 35px 0 #b4b4b4a1;
 }
+
+.card-2 {
+  width: 432px;
+  height: 389px;
+  margin-top: 39px;
+  background: #fff;
+  border-radius: 20px;
+  position: relative;
+}
+
+.img-principal-2 {
+  width: 82px;
+  height: 82px;
+  margin: 74px auto 20px;
+}
+
+.text-2 {
+  width: 203px;
+  height: 48px;
+  margin: 0px auto 16px;
+  font-size: 18px;
+  line-height: 24px;
+  text-align: center;
+}
+
+.cta-2{
+  width: 201px;
+  height: 49px;
+  margin: 46px auto 0px;
+  display: block;
+  background: #1C1B5E;
+  color: #fff;
+  border-radius: 5px;
+  border: none;
+  font-size: 16px;
+  line-height: 21px;
+  box-shadow: 0px 6px 35px 0 #b4b4b4a1;
+}
+
+footer{
+  margin-bottom: 50px;
+}
+
+.nucba{
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
