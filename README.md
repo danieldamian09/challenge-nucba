@@ -22,3 +22,5 @@ Subilo a Github + Vercel y compartilo con la comunidad en Discord!
 ⏳ Las estimaciones de desafíos son una habilidad que a menudo se pasa por alto, pero es importante para los desarrolladores/as profesionales, recomendamos utilizar la técnica Pomodoro 🍅 .
 
 <img src="./assets/Pop-ups-01.png" alt="challenge-1">
+
+Challenge completado: https://challenge-1-nucba.netlify.app/
