@@ -120,3 +120,22 @@ footer{
   margin-top: 50px;
 }
 
+/* Responsive */
+
+@media (max-width: 576px){
+
+  .principal{
+    margin: auto;
+  }
+
+  .cerrar{
+    left: 80%;
+    top: 5%;
+  }
+  
+
+  .card-1, .card-2{
+    width: 95%;
+  }
+}
+
